@@ -1,5 +1,5 @@
 # Overview
-Pewlett Hackard is looking into the future and would like to prepare for the upcoming retirement employees that will leave the company. This analysis will provide the company an overview of upcoming amount of employees retiring, position that are holding, and what employees quality for training to fill the vacancy of this employees that are retiring. 
+Pewlett Hackard is looking into the future and would like to prepare for the upcoming retirement of employees that will leave the company. This analysis will provide the company an overview of the upcoming amount of employees retiring, their positions, and what qualifies for training is needed to fill the vacancy of these employees that are retiring. 
 
 # Analysis
 
